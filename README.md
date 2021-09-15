@@ -20,4 +20,4 @@ npm start server
 
 # links:
 repository: https://github.com/ellackramer/tech-blog
-deployed application:
+deployed application: https://ella-tech-blog.herokuapp.com/
