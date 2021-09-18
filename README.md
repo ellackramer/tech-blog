@@ -18,6 +18,12 @@ Start Server;
 npm start server
 
 
+
+
+https://user-images.githubusercontent.com/80598541/133891049-d75f7f68-4f70-415f-88cf-44a31781825c.mp4
+
+
+
 # links:
 repository: https://github.com/ellackramer/tech-blog
 deployed application: https://ella-tech-blog.herokuapp.com/
